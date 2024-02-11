@@ -1,4 +1,4 @@
-# annoying-calculator-py
+# Annoying Calculator
 Simple calculator, but with annoying messages and warnings.
 
 ## Supported languages:
